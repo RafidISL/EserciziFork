@@ -1,0 +1,1 @@
+add_executable(Es1 Es1.c)
